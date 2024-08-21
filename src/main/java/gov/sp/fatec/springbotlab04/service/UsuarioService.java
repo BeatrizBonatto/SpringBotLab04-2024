@@ -1,8 +1,8 @@
-package br.service;
+package gov.sp.fatec.springbotlab04.service;
 
 import java.util.List;
 
-import br.gov.sp.fatec.springbotlab04.entity.Usuario;
+import gov.sp.fatec.springbotlab04.entity.Usuario;
 
 public interface UsuarioService {
     

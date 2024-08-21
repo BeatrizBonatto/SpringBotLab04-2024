@@ -1,4 +1,4 @@
-package br.gov.sp.fatec.springbotlab04.entity;
+package gov.sp.fatec.springbotlab04.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
